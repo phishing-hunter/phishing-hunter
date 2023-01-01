@@ -10,5 +10,12 @@ I am developing [phishing-hunter](https://phishing-hunter.com/)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
+### Active Projects
+* [auto-hunter](https://github.com/phishing-hunter/auto-hunter)
+* [ph-blocker](https://github.com/phishing-hunter/ph-blocker)
+* [fakeshell](https://github.com/phishing-hunter/fakeshell)
+* [proxypot](https://github.com/phishing-hunter/proxypot)
+
+### Account Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phishing-hunter&hide=html)
 ![phishing-hunter's github stats](https://github-readme-stats.vercel.app/api?username=phishing-hunter&show_icons=true&count_private=true&line_height=40)
