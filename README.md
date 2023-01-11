@@ -12,7 +12,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
 ### Active Projects
 * [auto-hunter](https://github.com/phishing-hunter/auto-hunter)
-* [ph-blocker](https://github.com/phishing-hunter/ph-blocker)
+* [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
 * [fakeshell](https://github.com/phishing-hunter/fakeshell)
 * [proxypot](https://github.com/phishing-hunter/proxypot)
 
