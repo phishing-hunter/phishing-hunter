@@ -10,6 +10,10 @@ I am developing [phishing-hunter](https://phishing-hunter.com/)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
+### Related Accounts
+* [tatsu-i](https://github.com/tatsu-i)
+* [tatsui-geek](https://github.com/tatsui-geek)
+
 ### Active Projects
 * [auto-hunter](https://github.com/phishing-hunter/auto-hunter)
 * [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
