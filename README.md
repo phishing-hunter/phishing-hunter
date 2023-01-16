@@ -15,10 +15,10 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 * [tatsui-geek](https://github.com/tatsui-geek)
 
 ### Active Projects
-* [auto-hunter](https://github.com/phishing-hunter/auto-hunter)
-* [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
+* [intelgpt](https://github.com/phishing-hunter/intelgpt)
 * [fakeshell](https://github.com/phishing-hunter/fakeshell)
 * [proxypot](https://github.com/phishing-hunter/proxypot)
+* [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
 
 ### Account Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phishing-hunter&hide=html)
