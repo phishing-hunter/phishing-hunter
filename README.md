@@ -18,7 +18,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
 * [Fakeshell](https://github.com/phishing-hunter/fakeshell)
 * [Proxypot](https://github.com/phishing-hunter/proxypot)
-* [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
+* [Phishing Blocker](https://github.com/phishing-hunter/phishing-blocker)
 
 ### Account Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phishing-hunter&hide=html)
