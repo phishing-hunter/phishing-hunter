@@ -15,6 +15,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 * [tatsui-geek](https://github.com/tatsui-geek)
 
 ### Active Projects
+* [PHOps](https://github.com/phishing-hunter/PHOps)
 * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
 * [Fakeshell](https://github.com/phishing-hunter/fakeshell)
 * [Proxypot](https://github.com/phishing-hunter/proxypot)
